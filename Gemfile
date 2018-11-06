@@ -29,7 +29,7 @@ gem 'responders'
 
 gem 'rack-timeout'
 
-gem 'airbrake', '~> 7.3.5'
+gem 'airbrake', '~> 7.4.0'
 
 gem 'newrelic_rpm'
 

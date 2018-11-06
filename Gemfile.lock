@@ -60,8 +60,8 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     addressable (2.4.0)
-    airbrake (7.3.5)
-      airbrake-ruby (~> 2.10)
+    airbrake (7.4.0)
+      airbrake-ruby (~> 2.12)
     airbrake-ruby (2.12.0)
     arel (8.0.0)
     ast (2.4.0)
@@ -402,7 +402,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  airbrake (~> 7.3.5)
+  airbrake (~> 7.4.0)
   attribute_normalizer (~> 1.2.0)
   aws-sdk (~> 2.3.0)
   byebug
